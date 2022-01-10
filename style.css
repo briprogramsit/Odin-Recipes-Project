@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100&display=swap');
+
+
+body {
+    background-color:aquamarine;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 700px;
+
+}
+
+#header {
+    text-align: center;
+}
+
+#navlink {
+    text-align: center;
+    
+}
+
+#lasagna {
+    text-align: center;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+h3 {
+    text-align: center;
+}
+
